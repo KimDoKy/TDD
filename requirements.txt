@@ -1,4 +1,1 @@
-chromedriver==2.24.1
-Django==1.11.1
-pytz==2017.2
-selenium==3.4.1
+django==1.11rc1

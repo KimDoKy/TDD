@@ -1,3 +1,5 @@
+db.sqlite3
+__pycache__
+*.pyc
 .idea/
-.python-version
-.DS_Store
+.python-version/

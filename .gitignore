@@ -2,7 +2,7 @@ db.sqlite3
 __pycache__
 *.pyc
 .idea/
-.python-version/
+.python-version
 db.sqlite3
 geckodriver.log
 __pycache__
